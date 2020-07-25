@@ -4,3 +4,8 @@ h1{
 h2{
 	color: #00CCFF;
 }
+body {
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Exo 2', sans-serif;
+}
